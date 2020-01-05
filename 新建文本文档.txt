@@ -1,0 +1,16 @@
+  //  Serial.print("A1: ");
+  //  Serial.print(value1);
+  //  Serial.print("  A2: ");
+  //  Serial.print(value2);
+  //  Serial.print("  A3: ");
+  //  Serial.print(value3);
+  //  Serial.print("  A4: ");
+  //  Serial.print(value4);
+  //  Serial.print("  A5: ");
+  //  Serial.print(value5);
+  //  Serial.print("  A6: ");
+  //  Serial.print(value6);
+  //  Serial.print("  A7: ");
+  //  Serial.print(value7);
+  //  Serial.print("  A8: ");
+  //  Serial.println(value8);
